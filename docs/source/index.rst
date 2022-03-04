@@ -15,10 +15,6 @@ vdirsyncer UI stores the information about storages, collections and user creden
     As vdirsyncer UI is under active development as well as technical requirements by vdirsyncer, we decided to move forward in this way. We will definetly fix
     this in the future.
 
-
-Contents
---------
-
 .. toctree::
 
    Requirements
