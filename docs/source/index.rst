@@ -18,4 +18,4 @@ vdirsyncer UI stores the information about storages, collections and user creden
 .. toctree::
 
    requirements
-   vdirsyncerUI
+   vdirsyncerui
