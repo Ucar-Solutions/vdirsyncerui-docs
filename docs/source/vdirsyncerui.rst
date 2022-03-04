@@ -13,7 +13,7 @@ Resources
 ----------------
 
 .. image:: ../../images/resources.png
-  :width: 400
+  :width: 600
   :alt: vdirsyncer UI resources
 
 Resources consist of several information that are required to input by the user. With respect to the `vdirsyncer terminology <https://vdirsyncer.pimutils.org/en/stable/tutorial.html#configuration>`_,
@@ -33,7 +33,7 @@ Existing Pairs
 ----------------
 
 .. image:: ../../images/pairs.png
-  :width: 400
+  :width: 600
   :alt: vdirsyncer UI resources
 
 "Existing pairs" is a simple list of resources paired with each other. In the "pairing" part (see below), you can pair resources you configured in "resources".
@@ -47,7 +47,7 @@ Pairing
 ----------------
 
 .. image:: ../../images/pairing.png
-  :width: 400
+  :width: 600
   :alt: vdirsyncer UI resources
 
 Pairing lists all resources configured in 'resources'.
