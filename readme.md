@@ -8,4 +8,4 @@ Feel free to send a pull request if you miss any information or found typos.
 
 ## Maintainer/Creator
 
-Ucar Solutions UG (Doğan Uçar) ([@doganoo](https://www.ucar-solutions.de))
+[Ucar Solutions UG](https://www.ucar-solutions.de) [@doganoo](https://www.ucar-solutions.de)
