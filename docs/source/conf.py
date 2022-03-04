@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'vdirsyncer UI docs'
+copyright = '2022, Dogan Ucar'
+author = 'Dogan Ucar'
 
 release = '0.1'
 version = '0.1.0'
