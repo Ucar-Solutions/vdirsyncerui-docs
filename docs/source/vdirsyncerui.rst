@@ -1,5 +1,5 @@
 vdirsyncer UI
-===
+=====
 
 .. autosummary::
    :toctree: generated
@@ -12,7 +12,7 @@ the resources part, the existing pairs part and the part where you can pair reso
 Resources
 ----------------
 
-.. image:: images/resources.png
+.. image:: ../../images/resources.png
   :width: 400
   :alt: vdirsyncer UI resources
 
@@ -32,7 +32,7 @@ Please refer to the vdirsyncer manual for further information.
 Existing Pairs
 ----------------
 
-.. image:: images/pairs.png
+.. image:: ../../images/pairs.png
   :width: 400
   :alt: vdirsyncer UI resources
 
@@ -46,7 +46,7 @@ When pairing two resources, there are a couple of steps done:
 Pairing
 ----------------
 
-.. image:: images/pairing.png
+.. image:: ../../images/pairing.png
   :width: 400
   :alt: vdirsyncer UI resources
 
